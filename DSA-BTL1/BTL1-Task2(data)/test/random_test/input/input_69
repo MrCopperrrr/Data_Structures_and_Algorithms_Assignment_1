@@ -1,0 +1,48 @@
+43 - XArrayList - int
+itemEqual = null
+deleteUserData = null
+capacity = 7
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add 11 
+print_item2str null
+add 5 19 
+print_item2str null
+add 6 16 
+print_item2str null
+add 8 14 
+print_item2str null
+add 6 11 
+print_item2str null
+add 0 10 
+print_item2str null
+add 2 
+print_item2str null
+add 13 
+print_item2str null
+add 8 9 
+print_item2str null
+removeAt 14 
+print_item2str null
+clear 
+print_item2str null
+add 13 
+print_item2str null
+add 1 
+print_item2str null
+add 4 
+print_item2str null
+add 1 16 
+print_item2str null
+removeAt 0 
+print_item2str null
+add 12 
+print_item2str null
+add 3 10 
+print_item2str null
+removeAt 4 
+print_item2str null
+removeAt 4 
+print_item2str null
+add 0 10 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

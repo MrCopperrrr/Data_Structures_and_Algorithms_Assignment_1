@@ -1,0 +1,48 @@
+43 - XArrayList - Point
+itemEqual = pointEQ_Y
+deleteUserData = null
+capacity = 10
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str point2str_X
+add 7 Point(3.0, 1.0, 2.0) 
+print_item2str point2str
+add Point(1.0, 3.0, 1.0) 
+print_item2str point2str
+add Point(2.0, 1.0, 3.0) 
+print_item2str point2str
+removeAt 8 
+print_item2str point2str_Y
+add Point(0.0, 1.0, 3.0) 
+print_item2str point2str
+add Point(2.0, 3.0, 1.0) 
+print_item2str point2str_Y
+add 7 Point(0.0, 3.0, 2.0) 
+print_item2str point2str
+add Point(2.0, 2.0, 3.0) 
+print_item2str point2str
+clear 
+print_item2str point2str
+removeAt -2 
+print_item2str point2str
+removeItem Point(1.0, 0.0, 3.0)
+print_item2str point2str
+add -2 Point(3.0, 1.0, 0.0) 
+print_item2str point2str
+add Point(2.0, 3.0, 0.0) 
+print_item2str point2str
+clear 
+print_item2str point2str_X
+removeAt -1 
+print_item2str point2str_Y
+clear 
+print_item2str point2str_Z
+add 0 Point(1.0, 2.0, 2.0) 
+print_item2str point2str
+add Point(3.0, 0.0, 1.0) 
+print_item2str point2str
+add 1 Point(1.0, 1.0, 2.0) 
+print_item2str point2str
+add -1 Point(2.0, 0.0, 2.0) 
+print_item2str point2str
+removeAt 3 
+print_item2str point2str_Z
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

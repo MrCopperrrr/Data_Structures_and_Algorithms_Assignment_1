@@ -1,0 +1,160 @@
+155 - XArrayList - string
+itemEqual = null
+deleteUserData = null
+capacity = 0
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add CE 
+print_item2str null
+removeAt 12 
+print_item2str null
+removeItem KHMT
+print_item2str null
+add CE 
+print_item2str null
+clear 
+print_item2str null
+add CS 
+print_item2str null
+add TIEN 
+print_item2str null
+removeAt -1 
+print_item2str null
+add BKU 
+print_item2str null
+removeAt 1 
+print_item2str null
+add KHMT 
+print_item2str null
+add -1 GHOST 
+print_item2str null
+clear 
+print_item2str null
+add GHOST 
+print_item2str null
+add 1 CSE 
+print_item2str null
+add GHOST 
+print_item2str null
+add CSE 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt -2 
+print_item2str null
+add CE 
+print_item2str null
+add BKU 
+print_item2str null
+add CS 
+print_item2str null
+add 2 CSE 
+print_item2str null
+removeAt 4 
+print_item2str null
+add -2 KTMT 
+print_item2str null
+add KHMT 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt 1 
+print_item2str null
+add TIEN 
+print_item2str null
+add 1 TRAP 
+print_item2str null
+add 4 CS 
+print_item2str null
+add TRAP 
+print_item2str null
+add 4 KTMT 
+print_item2str null
+add 3 BKU 
+print_item2str null
+add CSE 
+print_item2str null
+add 10 KTMT 
+print_item2str null
+add 10 DSA01 
+print_item2str null
+add VoTien 
+print_item2str null
+add CS 
+print_item2str null
+removeAt 11 
+print_item2str null
+removeAt 3 
+print_item2str null
+add GHOST 
+print_item2str null
+add 9 DSA01 
+print_item2str null
+add CE 
+print_item2str null
+removeAt 1 
+print_item2str null
+removeAt 8 
+print_item2str null
+add KTMT 
+print_item2str null
+add CS 
+print_item2str null
+add 11 KTMT 
+print_item2str null
+clear 
+print_item2str null
+add -1 KHMT 
+print_item2str null
+removeAt -2 
+print_item2str null
+add 0 VoTien 
+print_item2str null
+clear 
+print_item2str null
+add 0 TIEN 
+print_item2str null
+add -2 CSE 
+print_item2str null
+add 0 GHOST 
+print_item2str null
+add BKU 
+print_item2str null
+add 2 VoTien 
+print_item2str null
+add 0 CSE 
+print_item2str null
+add -2 VoTien 
+print_item2str null
+clear 
+print_item2str null
+removeItem KHMT
+print_item2str null
+add DSA01 
+print_item2str null
+add 0 BKU 
+print_item2str null
+removeItem CS
+print_item2str null
+add TRAP 
+print_item2str null
+removeAt 2 
+print_item2str null
+removeItem CS
+print_item2str null
+add 0 KHMT 
+print_item2str null
+add TIEN 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeItem VoTien
+print_item2str null
+add 0 CSE 
+print_item2str null
+add -1 TRAP 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

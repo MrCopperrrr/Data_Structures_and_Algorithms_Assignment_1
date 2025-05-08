@@ -1,0 +1,164 @@
+159 - DLinkedList - bool
+itemEqual = null
+deleteUserData = null
+capacity = 5
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+clear 
+print_item2str null
+add True 
+print_item2str null
+removeAt -2 
+print_item2str null
+removeAt -2 
+print_item2str null
+add -2 False 
+print_item2str null
+add -1 True 
+print_item2str null
+add 0 True 
+print_item2str null
+add True 
+print_item2str null
+add -2 True 
+print_item2str null
+add True 
+print_item2str null
+add -2 False 
+print_item2str null
+add 5 False 
+print_item2str null
+add False 
+print_item2str null
+add False 
+print_item2str null
+add False 
+print_item2str null
+add False 
+print_item2str null
+add 6 True 
+print_item2str null
+add 7 False 
+print_item2str null
+removeAt 13 
+print_item2str null
+removeAt 10 
+print_item2str null
+add 2 True 
+print_item2str null
+add True 
+print_item2str null
+add 12 True 
+print_item2str null
+removeAt 1 
+print_item2str null
+removeItem False
+print_item2str null
+add False 
+print_item2str null
+add True 
+print_item2str null
+add False 
+print_item2str null
+add True 
+print_item2str null
+add False 
+print_item2str null
+add False 
+print_item2str null
+add 8 False 
+print_item2str null
+add 10 False 
+print_item2str null
+add False 
+print_item2str null
+add 18 False 
+print_item2str null
+add 4 True 
+print_item2str null
+add False 
+print_item2str null
+add 14 False 
+print_item2str null
+removeAt 18 
+print_item2str null
+add False 
+print_item2str null
+removeAt -2 
+print_item2str null
+add False 
+print_item2str null
+add 14 False 
+print_item2str null
+clear 
+print_item2str null
+removeAt -2 
+print_item2str null
+add -1 True 
+print_item2str null
+add -2 False 
+print_item2str null
+add -1 False 
+print_item2str null
+add -1 False 
+print_item2str null
+removeAt 4 
+print_item2str null
+add 2 True 
+print_item2str null
+add 0 False 
+print_item2str null
+add 2 True 
+print_item2str null
+add False 
+print_item2str null
+add True 
+print_item2str null
+add 1 False 
+print_item2str null
+add False 
+print_item2str null
+removeAt 2 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeItem True
+print_item2str null
+add -2 True 
+print_item2str null
+removeAt 0 
+print_item2str null
+add True 
+print_item2str null
+add -2 True 
+print_item2str null
+add 0 False 
+print_item2str null
+add False 
+print_item2str null
+add True 
+print_item2str null
+removeAt 3 
+print_item2str null
+add 4 False 
+print_item2str null
+add True 
+print_item2str null
+add 6 False 
+print_item2str null
+add 0 False 
+print_item2str null
+clear 
+print_item2str null
+add False 
+print_item2str null
+add 1 False 
+print_item2str null
+removeAt 1 
+print_item2str null
+add -1 False 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

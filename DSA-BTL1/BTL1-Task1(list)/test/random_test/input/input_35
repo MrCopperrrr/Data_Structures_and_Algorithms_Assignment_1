@@ -1,0 +1,46 @@
+41 - XArrayList - string
+itemEqual = null
+deleteUserData = null
+capacity = 1
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+removeAt 0 
+print_item2str null
+removeItem Shiba
+print_item2str null
+removeAt -1 
+print_item2str null
+add TIEN 
+print_item2str null
+add Shiba 
+print_item2str null
+add -1 CE 
+print_item2str null
+add -1 VoTien 
+print_item2str null
+add BKU 
+print_item2str null
+add -1 TRAP 
+print_item2str null
+clear 
+print_item2str null
+add -1 KTMT 
+print_item2str null
+add -1 KTMT 
+print_item2str null
+removeAt 2 
+print_item2str null
+add KTMT 
+print_item2str null
+removeAt 1 
+print_item2str null
+add Shiba 
+print_item2str null
+removeAt 0 
+print_item2str null
+add KTMT 
+print_item2str null
+add 1 CSE 
+print_item2str null
+add GHOST 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

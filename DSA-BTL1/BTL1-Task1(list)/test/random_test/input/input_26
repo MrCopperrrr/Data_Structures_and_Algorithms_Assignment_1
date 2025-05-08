@@ -1,0 +1,178 @@
+173 - XArrayList - int
+itemEqual = null
+deleteUserData = null
+capacity = 1
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add 5 
+print_item2str null
+add 8 
+print_item2str null
+clear 
+print_item2str null
+add 0 3 
+print_item2str null
+add 1 2 
+print_item2str null
+add -1 0 
+print_item2str null
+add 3 
+print_item2str null
+add 3 0 
+print_item2str null
+add 2 3 
+print_item2str null
+removeItem 15
+print_item2str null
+add 9 
+print_item2str null
+add 9 
+print_item2str null
+add 14 
+print_item2str null
+clear 
+print_item2str null
+add -2 16 
+print_item2str null
+add 0 1 
+print_item2str null
+add 16 
+print_item2str null
+add 16 
+print_item2str null
+add 13 
+print_item2str null
+removeAt 5 
+print_item2str null
+add 4 2 
+print_item2str null
+add 6 
+print_item2str null
+removeAt 2 
+print_item2str null
+removeItem 1
+print_item2str null
+removeItem 17
+print_item2str null
+removeAt -2 
+print_item2str null
+add -1 2 
+print_item2str null
+removeItem 12
+print_item2str null
+removeItem 6
+print_item2str null
+clear 
+print_item2str null
+add -1 9 
+print_item2str null
+add 16 
+print_item2str null
+removeAt 1 
+print_item2str null
+add 0 16 
+print_item2str null
+removeAt 2 
+print_item2str null
+add 9 
+print_item2str null
+add 3 
+print_item2str null
+add 14 
+print_item2str null
+removeAt 0 
+print_item2str null
+add 5 
+print_item2str null
+add 4 
+print_item2str null
+add 9 
+print_item2str null
+removeItem 16
+print_item2str null
+add 10 
+print_item2str null
+add 4 
+print_item2str null
+add -1 14 
+print_item2str null
+add 7 
+print_item2str null
+clear 
+print_item2str null
+add 9 
+print_item2str null
+add 1 
+print_item2str null
+add 0 4 
+print_item2str null
+add 2 15 
+print_item2str null
+add 0 
+print_item2str null
+add 0 
+print_item2str null
+removeAt 3 
+print_item2str null
+add 4 5 
+print_item2str null
+add -1 6 
+print_item2str null
+add 0 19 
+print_item2str null
+removeAt -1 
+print_item2str null
+add -2 0 
+print_item2str null
+add 6 17 
+print_item2str null
+removeAt -1 
+print_item2str null
+add 7 5 
+print_item2str null
+clear 
+print_item2str null
+add 0 0 
+print_item2str null
+removeItem 13
+print_item2str null
+add 0 13 
+print_item2str null
+add 0 19 
+print_item2str null
+add 7 
+print_item2str null
+add 0 6 
+print_item2str null
+clear 
+print_item2str null
+add -2 19 
+print_item2str null
+add 1 14 
+print_item2str null
+add 1 7 
+print_item2str null
+removeAt 1 
+print_item2str null
+removeAt 2 
+print_item2str null
+add 0 7 
+print_item2str null
+add 2 10 
+print_item2str null
+add 1 12 
+print_item2str null
+add 6 
+print_item2str null
+add 15 
+print_item2str null
+removeAt 5 
+print_item2str null
+add -1 16 
+print_item2str null
+add 6 2 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

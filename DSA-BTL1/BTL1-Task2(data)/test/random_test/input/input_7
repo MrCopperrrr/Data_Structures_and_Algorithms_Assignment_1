@@ -1,0 +1,110 @@
+105 - XArrayList - int
+itemEqual = null
+deleteUserData = null
+capacity = 1
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add 2 
+print_item2str null
+add 2 
+print_item2str null
+add 14 
+print_item2str null
+add 14 
+print_item2str null
+add 9 
+print_item2str null
+add 3 
+print_item2str null
+add 8 
+print_item2str null
+add 9 8 
+print_item2str null
+add 3 
+print_item2str null
+add 11 15 
+print_item2str null
+removeAt 13 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt -2 
+print_item2str null
+removeAt -2 
+print_item2str null
+add 0 12 
+print_item2str null
+add 12 
+print_item2str null
+add -1 2 
+print_item2str null
+removeAt -1 
+print_item2str null
+add 0 14 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeItem 15
+print_item2str null
+add -2 15 
+print_item2str null
+removeItem 0
+print_item2str null
+add 0 14 
+print_item2str null
+add -2 11 
+print_item2str null
+add 3 5 
+print_item2str null
+removeAt -2 
+print_item2str null
+removeItem 15
+print_item2str null
+add 5 18 
+print_item2str null
+removeAt 6 
+print_item2str null
+add 3 14 
+print_item2str null
+add 0 
+print_item2str null
+removeAt 1 
+print_item2str null
+add 15 
+print_item2str null
+clear 
+print_item2str null
+add -1 13 
+print_item2str null
+add 16 
+print_item2str null
+add 19 
+print_item2str null
+clear 
+print_item2str null
+add 18 
+print_item2str null
+add 4 
+print_item2str null
+add -2 3 
+print_item2str null
+removeItem 19
+print_item2str null
+add 7 
+print_item2str null
+add 2 10 
+print_item2str null
+add 18 
+print_item2str null
+add 8 
+print_item2str null
+add 5 19 
+print_item2str null
+add 7 7 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeAt -1 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

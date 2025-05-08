@@ -1,0 +1,186 @@
+181 - XArrayList - Point*
+itemEqual = null
+deleteUserData = pointRemove
+capacity = 10
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str point2str
+add Point(0.0, 1.0, 2.0) 
+print_item2str point2str_Y
+add 5 Point(2.0, 2.0, 0.0) 
+print_item2str point2str
+add Point(2.0, 2.0, 1.0) 
+print_item2str point2str_Z
+add Point(2.0, 3.0, 0.0) 
+print_item2str point2str
+add Point(2.0, 1.0, 0.0) 
+print_item2str point2str
+removeItem Point(0.0, 1.0, 0.0)
+print_item2str point2str
+add Point(3.0, 3.0, 3.0) 
+print_item2str point2str_Z
+add Point(2.0, 3.0, 2.0) 
+print_item2str point2str_Y
+add Point(0.0, 2.0, 0.0) 
+print_item2str point2str
+add 10 Point(1.0, 3.0, 0.0) 
+print_item2str point2str_Z
+add Point(0.0, 2.0, 1.0) 
+print_item2str point2str
+removeAt 7 
+print_item2str point2str_X
+add 15 Point(0.0, 1.0, 0.0) 
+print_item2str point2str
+add -1 Point(0.0, 2.0, 3.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 3.0) 
+print_item2str point2str
+add Point(0.0, 0.0, 3.0) 
+print_item2str point2str
+add Point(0.0, 3.0, 2.0) 
+print_item2str point2str
+add 20 Point(1.0, 0.0, 2.0) 
+print_item2str point2str_Y
+removeAt 10 
+print_item2str point2str_Z
+add Point(3.0, 2.0, 2.0) 
+print_item2str point2str
+add Point(0.0, 0.0, 2.0) 
+print_item2str point2str
+add Point(1.0, 0.0, 3.0) 
+print_item2str point2str
+add 20 Point(3.0, 2.0, 1.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 3.0) 
+print_item2str point2str
+add 11 Point(1.0, 0.0, 3.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 1.0) 
+print_item2str point2str
+add Point(1.0, 0.0, 2.0) 
+print_item2str point2str
+add Point(0.0, 2.0, 2.0) 
+print_item2str point2str
+add 3 Point(1.0, 3.0, 1.0) 
+print_item2str point2str
+add 10 Point(0.0, 0.0, 1.0) 
+print_item2str point2str_Y
+add Point(1.0, 0.0, 1.0) 
+print_item2str point2str_Z
+removeAt 14 
+print_item2str point2str
+add Point(0.0, 0.0, 3.0) 
+print_item2str point2str
+removeAt 13 
+print_item2str point2str
+add Point(2.0, 0.0, 0.0) 
+print_item2str point2str_X
+add 0 Point(2.0, 3.0, 3.0) 
+print_item2str point2str
+add Point(3.0, 2.0, 0.0) 
+print_item2str point2str
+removeAt 31 
+print_item2str point2str_Y
+add Point(3.0, 1.0, 0.0) 
+print_item2str point2str
+removeAt -1 
+print_item2str point2str_Z
+add Point(3.0, 1.0, 2.0) 
+print_item2str point2str
+removeAt 35 
+print_item2str point2str_Z
+add 21 Point(2.0, 3.0, 2.0) 
+print_item2str point2str_Y
+add 33 Point(1.0, 0.0, 0.0) 
+print_item2str point2str_X
+removeAt 10 
+print_item2str point2str
+add -1 Point(2.0, 3.0, 1.0) 
+print_item2str point2str_Z
+add Point(2.0, 1.0, 1.0) 
+print_item2str point2str
+add 10 Point(2.0, 1.0, 0.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 2.0) 
+print_item2str point2str
+add Point(2.0, 2.0, 3.0) 
+print_item2str point2str
+removeAt 31 
+print_item2str point2str_Z
+add 11 Point(3.0, 0.0, 1.0) 
+print_item2str point2str_Y
+removeAt 11 
+print_item2str point2str
+removeAt 39 
+print_item2str point2str_Z
+add Point(1.0, 3.0, 1.0) 
+print_item2str point2str
+removeItem Point(3.0, 2.0, 3.0)
+print_item2str point2str
+removeAt 20 
+print_item2str point2str
+add Point(3.0, 0.0, 1.0) 
+print_item2str point2str
+add Point(1.0, 3.0, 2.0) 
+print_item2str point2str_Z
+add 23 Point(3.0, 3.0, 2.0) 
+print_item2str point2str
+add Point(1.0, 1.0, 1.0) 
+print_item2str point2str_Y
+removeAt 29 
+print_item2str point2str
+clear 
+print_item2str point2str_X
+clear 
+print_item2str point2str_X
+add 0 Point(3.0, 1.0, 3.0) 
+print_item2str point2str
+add Point(0.0, 0.0, 3.0) 
+print_item2str point2str
+add 1 Point(3.0, 3.0, 1.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 0.0) 
+print_item2str point2str
+removeAt -1 
+print_item2str point2str_Y
+removeAt 2 
+print_item2str point2str_Z
+add 0 Point(0.0, 2.0, 2.0) 
+print_item2str point2str_Y
+add -2 Point(3.0, 3.0, 0.0) 
+print_item2str point2str_X
+add Point(1.0, 1.0, 1.0) 
+print_item2str point2str
+add 5 Point(2.0, 0.0, 3.0) 
+print_item2str point2str
+add 5 Point(1.0, 3.0, 0.0) 
+print_item2str point2str
+add Point(3.0, 0.0, 3.0) 
+print_item2str point2str
+removeItem Point(0.0, 2.0, 3.0)
+print_item2str point2str_Y
+add 2 Point(0.0, 1.0, 2.0) 
+print_item2str point2str
+add Point(1.0, 1.0, 3.0) 
+print_item2str point2str
+add Point(1.0, 0.0, 3.0) 
+print_item2str point2str_Z
+add 5 Point(1.0, 2.0, 2.0) 
+print_item2str point2str_Z
+removeAt 5 
+print_item2str point2str_Z
+removeAt 1 
+print_item2str point2str_X
+add Point(0.0, 1.0, 0.0) 
+print_item2str point2str
+add Point(0.0, 3.0, 2.0) 
+print_item2str point2str_Y
+removeAt 3 
+print_item2str point2str_X
+removeAt 3 
+print_item2str point2str
+add 6 Point(0.0, 3.0, 2.0) 
+print_item2str point2str_Z
+add Point(3.0, 2.0, 3.0) 
+print_item2str point2str
+add Point(2.0, 0.0, 1.0) 
+print_item2str point2str
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

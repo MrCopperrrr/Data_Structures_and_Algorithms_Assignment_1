@@ -1,0 +1,136 @@
+131 - DLinkedList - string
+itemEqual = null
+deleteUserData = null
+capacity = 1
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add TIEN 
+print_item2str null
+add 0 KTMT 
+print_item2str null
+removeItem VoTien
+print_item2str null
+add BKU 
+print_item2str null
+add CSE 
+print_item2str null
+add 4 Shiba 
+print_item2str null
+removeAt 6 
+print_item2str null
+removeAt 0 
+print_item2str null
+add 2 TIEN 
+print_item2str null
+add 1 Shiba 
+print_item2str null
+add 6 VoTien 
+print_item2str null
+add TIEN 
+print_item2str null
+add 4 CSE 
+print_item2str null
+add CSE 
+print_item2str null
+add CSE 
+print_item2str null
+add 7 TRAP 
+print_item2str null
+add GHOST 
+print_item2str null
+add 4 KTMT 
+print_item2str null
+add 11 DSA01 
+print_item2str null
+removeAt 13 
+print_item2str null
+removeItem Shiba
+print_item2str null
+removeItem CE
+print_item2str null
+add CSE 
+print_item2str null
+removeAt 4 
+print_item2str null
+clear 
+print_item2str null
+add CS 
+print_item2str null
+add KHMT 
+print_item2str null
+add TIEN 
+print_item2str null
+add 1 BKU 
+print_item2str null
+add KHMT 
+print_item2str null
+removeItem KHMT
+print_item2str null
+add 5 CE 
+print_item2str null
+add -2 TRAP 
+print_item2str null
+clear 
+print_item2str null
+add DSA01 
+print_item2str null
+add DSA01 
+print_item2str null
+add -1 TRAP 
+print_item2str null
+removeAt -1 
+print_item2str null
+add TRAP 
+print_item2str null
+add VoTien 
+print_item2str null
+add 4 VoTien 
+print_item2str null
+add 5 VoTien 
+print_item2str null
+add -1 VoTien 
+print_item2str null
+add KTMT 
+print_item2str null
+add -1 CS 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeAt 7 
+print_item2str null
+add TIEN 
+print_item2str null
+add KHMT 
+print_item2str null
+add 6 BKU 
+print_item2str null
+add 9 KHMT 
+print_item2str null
+removeItem BKU
+print_item2str null
+removeAt 7 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeAt 3 
+print_item2str null
+add CS 
+print_item2str null
+removeItem KHMT
+print_item2str null
+removeAt -2 
+print_item2str null
+removeItem KTMT
+print_item2str null
+add BKU 
+print_item2str null
+clear 
+print_item2str null
+add 0 BKU 
+print_item2str null
+removeAt 1 
+print_item2str null
+add KTMT 
+print_item2str null
+add 1 BKU 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

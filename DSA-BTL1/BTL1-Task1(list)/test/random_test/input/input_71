@@ -1,0 +1,140 @@
+135 - DLinkedList - int
+itemEqual = null
+deleteUserData = null
+capacity = 3
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+removeAt 0 
+print_item2str null
+add 4 7 
+print_item2str null
+removeAt 2 
+print_item2str null
+add 12 
+print_item2str null
+add 14 
+print_item2str null
+add 13 
+print_item2str null
+add 1 9 
+print_item2str null
+removeAt 6 
+print_item2str null
+add 4 
+print_item2str null
+removeAt 0 
+print_item2str null
+add 19 
+print_item2str null
+removeAt 3 
+print_item2str null
+removeAt 10 
+print_item2str null
+add -2 0 
+print_item2str null
+add 3 
+print_item2str null
+add 15 
+print_item2str null
+add 13 7 
+print_item2str null
+add 13 
+print_item2str null
+add 6 10 
+print_item2str null
+add 16 0 
+print_item2str null
+add 17 11 
+print_item2str null
+add 14 10 
+print_item2str null
+add 17 2 
+print_item2str null
+add 18 
+print_item2str null
+removeAt 11 
+print_item2str null
+removeItem 1
+print_item2str null
+add 14 10 
+print_item2str null
+add 13 3 
+print_item2str null
+removeAt 10 
+print_item2str null
+add 17 
+print_item2str null
+removeAt 8 
+print_item2str null
+removeAt 14 
+print_item2str null
+clear 
+print_item2str null
+add -1 14 
+print_item2str null
+removeAt 1 
+print_item2str null
+add 0 4 
+print_item2str null
+add -1 9 
+print_item2str null
+add 0 5 
+print_item2str null
+removeItem 8
+print_item2str null
+removeAt 2 
+print_item2str null
+add -1 6 
+print_item2str null
+add 18 
+print_item2str null
+add 1 8 
+print_item2str null
+add 15 
+print_item2str null
+add 12 
+print_item2str null
+add 4 
+print_item2str null
+removeItem 11
+print_item2str null
+add 7 
+print_item2str null
+add 15 
+print_item2str null
+add 6 
+print_item2str null
+add 6 
+print_item2str null
+add 19 
+print_item2str null
+add 5 
+print_item2str null
+add 6 14 
+print_item2str null
+add 2 
+print_item2str null
+add 10 
+print_item2str null
+removeAt 13 
+print_item2str null
+add 14 4 
+print_item2str null
+add 3 
+print_item2str null
+removeAt 14 
+print_item2str null
+add -1 1 
+print_item2str null
+clear 
+print_item2str null
+removeAt -2 
+print_item2str null
+clear 
+print_item2str null
+add 18 
+print_item2str null
+add -2 7 
+print_item2str null
+removeAt 0 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

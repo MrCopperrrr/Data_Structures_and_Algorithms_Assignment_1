@@ -1,0 +1,96 @@
+91 - XArrayList - bool
+itemEqual = null
+deleteUserData = null
+capacity = 10
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+removeAt 0 
+print_item2str null
+add -1 False 
+print_item2str null
+removeItem True
+print_item2str null
+add True 
+print_item2str null
+add False 
+print_item2str null
+add 2 True 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+removeItem False
+print_item2str null
+add -1 False 
+print_item2str null
+add -1 False 
+print_item2str null
+add 2 False 
+print_item2str null
+clear 
+print_item2str null
+add 0 False 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+add False 
+print_item2str null
+removeAt -1 
+print_item2str null
+add 0 False 
+print_item2str null
+removeItem True
+print_item2str null
+add -2 False 
+print_item2str null
+clear 
+print_item2str null
+add -2 True 
+print_item2str null
+add 1 True 
+print_item2str null
+add 0 True 
+print_item2str null
+add False 
+print_item2str null
+add -2 True 
+print_item2str null
+add 2 False 
+print_item2str null
+removeItem False
+print_item2str null
+add False 
+print_item2str null
+add -1 True 
+print_item2str null
+add 2 True 
+print_item2str null
+add 4 False 
+print_item2str null
+add 9 False 
+print_item2str null
+removeAt 4 
+print_item2str null
+add True 
+print_item2str null
+add False 
+print_item2str null
+add True 
+print_item2str null
+removeAt 8 
+print_item2str null
+add 11 False 
+print_item2str null
+add 9 True 
+print_item2str null
+add 1 False 
+print_item2str null
+add 2 False 
+print_item2str null
+clear 
+print_item2str null
+add -2 True 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

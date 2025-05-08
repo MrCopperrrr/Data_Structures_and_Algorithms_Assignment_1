@@ -1,0 +1,82 @@
+77 - XArrayList - string
+itemEqual = null
+deleteUserData = null
+capacity = 5
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add VoTien 
+print_item2str null
+add Shiba 
+print_item2str null
+removeItem CSE
+print_item2str null
+add TIEN 
+print_item2str null
+removeItem VoTien
+print_item2str null
+clear 
+print_item2str null
+removeAt -2 
+print_item2str null
+clear 
+print_item2str null
+removeAt 0 
+print_item2str null
+add DSA01 
+print_item2str null
+add BKU 
+print_item2str null
+add DSA01 
+print_item2str null
+add -2 Shiba 
+print_item2str null
+removeAt 4 
+print_item2str null
+add 1 Shiba 
+print_item2str null
+clear 
+print_item2str null
+add CE 
+print_item2str null
+add 1 VoTien 
+print_item2str null
+add 1 BKU 
+print_item2str null
+add 2 KHMT 
+print_item2str null
+add TRAP 
+print_item2str null
+add TRAP 
+print_item2str null
+add 6 KTMT 
+print_item2str null
+removeAt -2 
+print_item2str null
+removeAt 2 
+print_item2str null
+add -2 VoTien 
+print_item2str null
+add KTMT 
+print_item2str null
+removeAt 0 
+print_item2str null
+add GHOST 
+print_item2str null
+add VoTien 
+print_item2str null
+add 3 CE 
+print_item2str null
+add 2 VoTien 
+print_item2str null
+add 2 VoTien 
+print_item2str null
+add Shiba 
+print_item2str null
+add 12 CSE 
+print_item2str null
+add Shiba 
+print_item2str null
+add 9 TIEN 
+print_item2str null
+add DSA01 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------

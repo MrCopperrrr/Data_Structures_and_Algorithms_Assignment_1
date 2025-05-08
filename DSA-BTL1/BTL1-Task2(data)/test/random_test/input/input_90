@@ -1,0 +1,146 @@
+141 - DLinkedList - string
+itemEqual = null
+deleteUserData = null
+capacity = 4
+---------VO-TIEN---------SHIBA---------VO-TIEN---------print_item2str null
+add -1 TIEN 
+print_item2str null
+removeAt 2 
+print_item2str null
+add KHMT 
+print_item2str null
+removeAt 2 
+print_item2str null
+add KTMT 
+print_item2str null
+add -1 GHOST 
+print_item2str null
+removeAt -2 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeAt -1 
+print_item2str null
+removeAt 1 
+print_item2str null
+add KTMT 
+print_item2str null
+removeItem VoTien
+print_item2str null
+add CSE 
+print_item2str null
+add CS 
+print_item2str null
+add -2 BKU 
+print_item2str null
+add -1 KTMT 
+print_item2str null
+add BKU 
+print_item2str null
+removeAt 0 
+print_item2str null
+add BKU 
+print_item2str null
+add 2 TRAP 
+print_item2str null
+add TIEN 
+print_item2str null
+add CS 
+print_item2str null
+add 6 KHMT 
+print_item2str null
+add TRAP 
+print_item2str null
+add TRAP 
+print_item2str null
+add VoTien 
+print_item2str null
+removeAt 3 
+print_item2str null
+removeItem Shiba
+print_item2str null
+removeAt 0 
+print_item2str null
+add 0 DSA01 
+print_item2str null
+removeItem TRAP
+print_item2str null
+add KHMT 
+print_item2str null
+add VoTien 
+print_item2str null
+add DSA01 
+print_item2str null
+add 5 TIEN 
+print_item2str null
+add CE 
+print_item2str null
+add CE 
+print_item2str null
+add KHMT 
+print_item2str null
+removeItem Shiba
+print_item2str null
+clear 
+print_item2str null
+add -1 CSE 
+print_item2str null
+add 0 TRAP 
+print_item2str null
+add 2 KTMT 
+print_item2str null
+add 0 TRAP 
+print_item2str null
+add 4 CE 
+print_item2str null
+add 0 KTMT 
+print_item2str null
+add CS 
+print_item2str null
+add 6 Shiba 
+print_item2str null
+add KHMT 
+print_item2str null
+add CS 
+print_item2str null
+add TIEN 
+print_item2str null
+add 4 TIEN 
+print_item2str null
+removeAt -1 
+print_item2str null
+add 4 Shiba 
+print_item2str null
+add GHOST 
+print_item2str null
+add -1 CSE 
+print_item2str null
+add 1 GHOST 
+print_item2str null
+add 3 BKU 
+print_item2str null
+add 3 Shiba 
+print_item2str null
+add DSA01 
+print_item2str null
+removeAt 1 
+print_item2str null
+removeAt -1 
+print_item2str null
+add KTMT 
+print_item2str null
+add 14 DSA01 
+print_item2str null
+add CE 
+print_item2str null
+add -2 KHMT 
+print_item2str null
+add DSA01 
+print_item2str null
+add TIEN 
+print_item2str null
+add 4 TIEN 
+print_item2str null
+add 21 GHOST 
+print_item2str null
+---------VO-TIEN---------SHIBA---------VO-TIEN---------
